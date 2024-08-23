@@ -1,0 +1,367 @@
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <atom:link href="https://template.itwcreativeworks.com/feeds/posts.xml" rel="self" type="application/rss+xml" />
+    <title>
+      <![CDATA[
+        Ultimate Jekyll Blog
+      ]]>
+    </title>
+    <description>
+      <![CDATA[
+        Default description.
+      ]]>
+    </description>
+    <link>
+      https://template.itwcreativeworks.com/blog
+    </link>
+    <generator>
+      Jekyll 4.3.2
+    </generator>
+    <lastBuildDate>
+      Thu, 01 Aug 2024 00:18:51 GMT
+    </lastBuildDate>
+    <language>
+      <![CDATA[ en ]]>
+    </language>
+
+    
+
+    <item>
+        <title>
+          <![CDATA[
+            Example post number 7
+          ]]>
+        </title>
+        <link>
+          https://template.itwcreativeworks.com/blog/example-post-7
+        </link>
+        <guid isPermaLink="true">
+          https://template.itwcreativeworks.com/blog/example-post-7
+        </guid>
+        <pubDate>
+          Sun, 07 Jan 2024 00:00:00 GMT
+        </pubDate>
+        <description>
+          <![CDATA[
+            
+              This is a sample excerpt for post number 7
+            
+          ]]>
+        </description>
+        <content:encoded>
+          <![CDATA[
+            <h2 id="title-inside-post-7">Title inside post 7</h2>
+<p>This is a wonderful paragrah inside a post! This is post #7 with ID 1722471527.</p>
+
+<p>Before ads</p>
+
+<!-- Adunit - Adsense In-article Ad -->
+<p>Between ads</p>
+
+<!-- Adunit - Adsense In-article Ad -->
+<p>After ads</p>
+
+          ]]>
+        </content:encoded>
+        <dc:creator>
+          <![CDATA[
+            Ultimate Jekyll
+          ]]>
+        </dc:creator>
+        <category>
+          <![CDATA[
+            Marketing
+          ]]>
+        </category>
+      </item>
+    <item>
+        <title>
+          <![CDATA[
+            Example post number 6
+          ]]>
+        </title>
+        <link>
+          https://template.itwcreativeworks.com/blog/example-post-6
+        </link>
+        <guid isPermaLink="true">
+          https://template.itwcreativeworks.com/blog/example-post-6
+        </guid>
+        <pubDate>
+          Sat, 06 Jan 2024 00:00:00 GMT
+        </pubDate>
+        <description>
+          <![CDATA[
+            
+              This is a sample excerpt for post number 6
+            
+          ]]>
+        </description>
+        <content:encoded>
+          <![CDATA[
+            <h2 id="title-inside-post-6">Title inside post 6</h2>
+<p>This is a wonderful paragrah inside a post! This is post #6 with ID 1722471526.</p>
+
+<p>Before ads</p>
+
+<!-- Adunit - Adsense In-article Ad -->
+<p>Between ads</p>
+
+<!-- Adunit - Adsense In-article Ad -->
+<p>After ads</p>
+
+          ]]>
+        </content:encoded>
+        <dc:creator>
+          <![CDATA[
+            Ultimate Jekyll
+          ]]>
+        </dc:creator>
+        <category>
+          <![CDATA[
+            Marketing
+          ]]>
+        </category>
+      </item>
+    <item>
+        <title>
+          <![CDATA[
+            Example post number 5
+          ]]>
+        </title>
+        <link>
+          https://template.itwcreativeworks.com/blog/example-post-5
+        </link>
+        <guid isPermaLink="true">
+          https://template.itwcreativeworks.com/blog/example-post-5
+        </guid>
+        <pubDate>
+          Fri, 05 Jan 2024 00:00:00 GMT
+        </pubDate>
+        <description>
+          <![CDATA[
+            
+              This is a sample excerpt for post number 5
+            
+          ]]>
+        </description>
+        <content:encoded>
+          <![CDATA[
+            <h2 id="title-inside-post-5">Title inside post 5</h2>
+<p>This is a wonderful paragrah inside a post! This is post #5 with ID 1722471525.</p>
+
+<p>Before ads</p>
+
+<!-- Adunit - Adsense In-article Ad -->
+<p>Between ads</p>
+
+<!-- Adunit - Adsense In-article Ad -->
+<p>After ads</p>
+
+          ]]>
+        </content:encoded>
+        <dc:creator>
+          <![CDATA[
+            Ultimate Jekyll
+          ]]>
+        </dc:creator>
+        <category>
+          <![CDATA[
+            Marketing
+          ]]>
+        </category>
+      </item>
+    <item>
+        <title>
+          <![CDATA[
+            Example post number 4
+          ]]>
+        </title>
+        <link>
+          https://template.itwcreativeworks.com/blog/example-post-4
+        </link>
+        <guid isPermaLink="true">
+          https://template.itwcreativeworks.com/blog/example-post-4
+        </guid>
+        <pubDate>
+          Thu, 04 Jan 2024 00:00:00 GMT
+        </pubDate>
+        <description>
+          <![CDATA[
+            
+              This is a sample excerpt for post number 4
+            
+          ]]>
+        </description>
+        <content:encoded>
+          <![CDATA[
+            <h2 id="title-inside-post-4">Title inside post 4</h2>
+<p>This is a wonderful paragrah inside a post! This is post #4 with ID 1722471524.</p>
+
+<p>Before ads</p>
+
+<!-- Adunit - Adsense In-article Ad -->
+<p>Between ads</p>
+
+<!-- Adunit - Adsense In-article Ad -->
+<p>After ads</p>
+
+          ]]>
+        </content:encoded>
+        <dc:creator>
+          <![CDATA[
+            Ultimate Jekyll
+          ]]>
+        </dc:creator>
+        <category>
+          <![CDATA[
+            Marketing
+          ]]>
+        </category>
+      </item>
+    <item>
+        <title>
+          <![CDATA[
+            Example post number 3
+          ]]>
+        </title>
+        <link>
+          https://template.itwcreativeworks.com/blog/example-post-3
+        </link>
+        <guid isPermaLink="true">
+          https://template.itwcreativeworks.com/blog/example-post-3
+        </guid>
+        <pubDate>
+          Wed, 03 Jan 2024 00:00:00 GMT
+        </pubDate>
+        <description>
+          <![CDATA[
+            
+              This is a sample excerpt for post number 3
+            
+          ]]>
+        </description>
+        <content:encoded>
+          <![CDATA[
+            <h2 id="title-inside-post-3">Title inside post 3</h2>
+<p>This is a wonderful paragrah inside a post! This is post #3 with ID 1722471523.</p>
+
+<p>Before ads</p>
+
+<!-- Adunit - Adsense In-article Ad -->
+<p>Between ads</p>
+
+<!-- Adunit - Adsense In-article Ad -->
+<p>After ads</p>
+
+          ]]>
+        </content:encoded>
+        <dc:creator>
+          <![CDATA[
+            Ultimate Jekyll
+          ]]>
+        </dc:creator>
+        <category>
+          <![CDATA[
+            Marketing
+          ]]>
+        </category>
+      </item>
+    <item>
+        <title>
+          <![CDATA[
+            Example post number 2
+          ]]>
+        </title>
+        <link>
+          https://template.itwcreativeworks.com/blog/example-post-2
+        </link>
+        <guid isPermaLink="true">
+          https://template.itwcreativeworks.com/blog/example-post-2
+        </guid>
+        <pubDate>
+          Tue, 02 Jan 2024 00:00:00 GMT
+        </pubDate>
+        <description>
+          <![CDATA[
+            
+              This is a sample excerpt for post number 2
+            
+          ]]>
+        </description>
+        <content:encoded>
+          <![CDATA[
+            <h2 id="title-inside-post-2">Title inside post 2</h2>
+<p>This is a wonderful paragrah inside a post! This is post #2 with ID 1722471522.</p>
+
+<p>Before ads</p>
+
+<!-- Adunit - Adsense In-article Ad -->
+<p>Between ads</p>
+
+<!-- Adunit - Adsense In-article Ad -->
+<p>After ads</p>
+
+          ]]>
+        </content:encoded>
+        <dc:creator>
+          <![CDATA[
+            Ultimate Jekyll
+          ]]>
+        </dc:creator>
+        <category>
+          <![CDATA[
+            Marketing
+          ]]>
+        </category>
+      </item>
+    <item>
+        <title>
+          <![CDATA[
+            Example post number 1
+          ]]>
+        </title>
+        <link>
+          https://template.itwcreativeworks.com/blog/example-post-1
+        </link>
+        <guid isPermaLink="true">
+          https://template.itwcreativeworks.com/blog/example-post-1
+        </guid>
+        <pubDate>
+          Mon, 01 Jan 2024 00:00:00 GMT
+        </pubDate>
+        <description>
+          <![CDATA[
+            
+              This is a sample excerpt for post number 1
+            
+          ]]>
+        </description>
+        <content:encoded>
+          <![CDATA[
+            <h2 id="title-inside-post-1">Title inside post 1</h2>
+<p>This is a wonderful paragrah inside a post! This is post #1 with ID 1722471521.</p>
+
+<p>Before ads</p>
+
+<!-- Adunit - Adsense In-article Ad -->
+<p>Between ads</p>
+
+<!-- Adunit - Adsense In-article Ad -->
+<p>After ads</p>
+
+          ]]>
+        </content:encoded>
+        <dc:creator>
+          <![CDATA[
+            Ultimate Jekyll
+          ]]>
+        </dc:creator>
+        <category>
+          <![CDATA[
+            Marketing
+          ]]>
+        </category>
+      </item>
+    
+  </channel>
+</rss>
